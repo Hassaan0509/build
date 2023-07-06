@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a153b80.css",
+    "main.js": "/static/js/main.52fd174d.js",
+    "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
+    "static/media/hotelparking-bg.jpg": "/static/media/hotelparking-bg.5d33fbb0956f969da573.jpg",
+    "static/media/hotelPic23.jpg": "/static/media/hotelPic23.259393860d6192956205.jpg",
+    "static/media/hotelPic21.jpg": "/static/media/hotelPic21.4f5a5864c3eee746ad1f.jpg",
+    "static/media/hotelPic3.jpg": "/static/media/hotelPic3.21348d847a6a0f1d0fc4.jpg",
+    "static/media/hotelPic1.jpg": "/static/media/hotelPic1.e82921a5520db5c5045b.jpg",
+    "static/media/parking-bg.jpg": "/static/media/parking-bg.9743cc834eceb3782f54.jpg",
+    "static/media/hotelPic12.jpg": "/static/media/hotelPic12.34b172ccbd618214e5f6.jpg",
+    "static/media/hotel-bg.jpg": "/static/media/hotel-bg.3c03c9895f8e4d161c03.jpg",
+    "static/media/hotelPic7.jpg": "/static/media/hotelPic7.27bf2e368d50876c8320.jpg",
+    "static/media/hotelPic4.jpg": "/static/media/hotelPic4.08310ad96c3e79920826.jpg",
+    "static/media/parking10.jpg": "/static/media/parking10.ea9854bc66e2717105f6.jpg",
+    "static/media/hotelPic2.jpg": "/static/media/hotelPic2.75eb518af1673dcd3703.jpg",
+    "static/media/hotelPic25.jpg": "/static/media/hotelPic25.ae2d3cab2227c903f22c.jpg",
+    "static/media/modal-bg.png": "/static/media/modal-bg.82a42dfaf7f4efd29422.png",
+    "static/media/2953962.jpg": "/static/media/2953962.7e1ca706e69ab623fec6.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.d344d5bde6bab6f50fc3.jpg",
+    "static/media/user.png": "/static/media/user.943f5423dcca9f37ab58.png",
+    "static/media/googlelogo.png": "/static/media/googlelogo.49eda5baf38c81b402f5.png",
+    "static/media/bgrmvblk.png": "/static/media/bgrmvblk.cbb1d15e9d859daa1765.png",
+    "static/media/w1.png": "/static/media/w1.6ee2949b2104d7b10c57.png",
+    "static/media/w2.png": "/static/media/w2.b9a9e277e93334defc34.png",
+    "static/media/w3.png": "/static/media/w3.2719f0d50bd72ae773e5.png",
+    "index.html": "/index.html",
+    "main.1a153b80.css.map": "/static/css/main.1a153b80.css.map",
+    "main.52fd174d.js.map": "/static/js/main.52fd174d.js.map",
+    "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a153b80.css",
+    "static/js/main.52fd174d.js"
+  ]
+}
